@@ -5,4 +5,5 @@ echo $i
 done
 echo successful
 echo added
-echo newlines
+echo newlinesecho newlines
+echo 2ndmerge
