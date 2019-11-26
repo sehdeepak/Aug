@@ -4,3 +4,5 @@ do
 echo $i
 done
 echo successful
+echo added
+echo newlines
