@@ -7,3 +7,4 @@ echo successful
 echo added
 echo newlines
 echo 2ndmerge
+echo 3rdmerge
