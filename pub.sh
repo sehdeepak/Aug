@@ -6,3 +6,4 @@ done
 echo successful
 echo added
 echo newlines
+echo 2ndmerge
