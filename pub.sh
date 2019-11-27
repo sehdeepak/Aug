@@ -9,3 +9,4 @@ echo newlines
 echo 2ndmerge
 echo 3rdmerge
 echo 4merge
+echo 5merge
